@@ -17,29 +17,11 @@
 ## 3. Traditional Machine Learning Models
 - 1R
 - K-Nearest Neighbours
-- Decision Trees
 - Random Forests
 - Support Vector Machines
 - K-Means Clustering
 - Linear Regression
 - Logistic Regression
-## 4. Deep Learning Fundamentals
-- Neural networks
-- Activation functions
-- Loss functions
-- Gradient descent
-- Backpropagation
-- Epochs, batch size, and learning rate
-- Optimizers such as SGD and Adam
-
-## 5. PyTorch Basics
-
-
-## 6. CNN and Image-Based Learning
-
-
-## 7. U-Net and Image Segmentation
-
 
 Repository Structure
 ```text
