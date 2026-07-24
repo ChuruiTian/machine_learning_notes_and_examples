@@ -23,6 +23,14 @@
 - Linear Regression
 - Logistic Regression
 
+## convolutional Neural Network(CNN)
+- AlexNet
+- LeNet-5
+- GoogleNet
+- ResNet
+- Visual Geometry Group（VGG)
+- U-net
+  
 Repository Structure
 ```text
 machine-learning-notes/
@@ -31,10 +39,7 @@ machine-learning-notes/
 |     ├── 01_ML_fundamentals/
 |     ├── 02_Model_evaluation/
 |     ├── 03_Traditional_ML_models/
-|     ├── 04_Deep_learning_basics/
-|     ├── 05_Pytorch_basics/
-|     ├── 06_CNN/
-|     ├── 07_U-net_segmentation/
+|     ├── 04_CNN/
 └── README.md
 ```
 
