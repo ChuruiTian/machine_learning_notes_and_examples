@@ -23,7 +23,7 @@
 - Linear Regression
 - Logistic Regression
 
-## convolutional Neural Network(CNN)
+## 4. Convolutional Neural Network(CNN)
 - AlexNet
 - LeNet-5
 - GoogleNet
